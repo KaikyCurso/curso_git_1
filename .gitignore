@@ -1,1 +1,5 @@
+# Ignorando arquivo
 d.txt
+
+# Ignorando pasta
+node_module/*
