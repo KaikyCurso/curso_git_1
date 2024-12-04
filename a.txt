@@ -3,3 +3,5 @@ arquivo criado pelo github
 atualizando o arquivo
 
 isso deve ficar apenas na branch *teste_criação*
+
+isso deve ficar na nova branch "funcionalidade_a"
